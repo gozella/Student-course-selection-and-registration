@@ -1,0 +1,4 @@
+Hatýrlatma :Öðrenci ekledikten sonra ilgili öðrenci öðrenci listesinden secip öðrencinin sahip oldugu dersleri ders notu ile birlikte
+girip dersi ekleme iþlemi yapabiliyoruz,her dersi seçtikten sonra ders notu girip ilgili ögrencinin verisini kaydedebiliyoruz
+Form kontrolleri yapýlmadýðýndan dolayý ogrenciyi seçmeyip ders eklemeye kalkarsak veya ders notunu girmeden "Dersi Ekle"
+butonuna basarsak uygulama run time hatasý alýyor.

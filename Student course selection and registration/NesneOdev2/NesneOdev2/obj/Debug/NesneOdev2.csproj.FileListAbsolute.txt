@@ -1,0 +1,86 @@
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+c:\users\denizkovanci\documents\visual studio 2015\Projects\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\PQSJ\Desktop\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\MeltayBerk\Desktop\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\5\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\MeltayBerk\Desktop\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\PQSJ\Desktop\Sonv32\cufcuf\cufcuf\lalalal-1\lalalal-1\lalalal\NesneOdev2\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.BilgiGöster.resources
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.MainPage.resources
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.OgrenciEklePage.resources
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.Properties.Resources.resources
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.GenerateResource.Cache
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\gizem\Downloads\2015280007_HasanCanBuyukasik\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
